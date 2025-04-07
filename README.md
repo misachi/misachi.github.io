@@ -52,3 +52,5 @@ Memory usage(MB) for OrioleDB
 CPU usage for OrioleDB
 
 ![Orioledb](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jqyse13lpg312l4mxijv.png)
+
+Originally posted [here](https://dev.to/misachi/making-postgres-better-with-orioledb-49cp)
